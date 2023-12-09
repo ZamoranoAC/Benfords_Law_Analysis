@@ -12,7 +12,7 @@ This repository contains a data analysis project implemented in Python that util
 
 ## How to Use
 
-1. Clone this repository: `git clone https://github.com/ZamoranoAC/Benfords-Law-Analysis-on-Dataset`
+1. Clone this repository: `git clone https://github.com/ZamoranoAC/Benfords_Law_Analysis`
 2. Ensure you have Python installed.
 3. Install dependencies: `pip install -r requirements.txt` (make sure `numpy`, `pandas`, and `matplotlib` are installed).
 4. Run the analysis: `python root.py`.
